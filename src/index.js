@@ -7,7 +7,7 @@ const Runtimes = require('./runtimes');
 const LayersService = require('./aws/LayersService');
 const BucketService = require('./aws/BucketService');
 const CloudFormationService = require('./aws/CloudFormationService');
-const ZipService = require('./package/ZipService');
+const ZipService = require('./package/bd-ZipService');
 const LocalFolders = require('./package/LocalFolders');
 const Dependencies = require('./package/Dependencies');
 
